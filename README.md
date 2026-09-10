@@ -1,1 +1,1 @@
-# fisica-computacional-2026ii
+# fisica-computacional-2026iiRepositorio de tareas — Física Computacional
